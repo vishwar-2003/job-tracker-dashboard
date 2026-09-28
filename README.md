@@ -2,7 +2,7 @@
 
 A responsive React dashboard for tracking job applications end to end: log every application, filter and search your pipeline, see progress in charts, move roles through a Kanban board, and discover new openings from a live public jobs API.
 
-**Live demo:** _add your Vercel URL here_
+**Live demo:** https://jobtrail-vishwa.vercel.app/
 
 ## Features
 
